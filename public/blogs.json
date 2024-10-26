@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "cover": "https://imgur.com/a/reUZdgF",
+      "title": "Understanding JSON Formats",
+      "author": "Alex Rylie",
+      "author_img": "https://example.com/johndoe.jpg",
+      "posted_date": "2023-10-25",
+      "reading_time": 5,
+      "hashtags": ["JSON", "Data", "Web Development", "API"]
+    },
+    {
+      "id": 2,
+      "cover": "https://imgur.com/a/uwNB7LY",
+      "title": "Exploring Data Structures in JavaScript",
+      "author": "Jane Smith",
+      "author_img": "https://example.com/janesmith.jpg",
+      "posted_date": "2023-10-20",
+      "reading_time": 8,
+      "hashtags": ["JavaScript", "Data Structures", "Coding", "Programming"]
+    },
+    {
+      "id": 3,
+      "cover": "https://imgur.com/a/w4fLfaP",
+      "title": "A Guide to RESTful APIs",
+      "author": "Alice Johnson",
+      "author_img": "https://example.com/alicejohnson.jpg",
+      "posted_date": "2023-10-18",
+      "reading_time": 6,
+      "hashtags": ["API", "REST", "Backend", "Web Services"]
+    },
+    {
+      "id": 4,
+      "cover": "https://imgur.com/a/e9ioZsT",
+      "title": "Mastering CSS Grid Layouts",
+      "author": "Michael Brown",
+      "author_img": "https://example.com/michaelbrown.jpg",
+      "posted_date": "2023-10-15",
+      "reading_time": 10,
+      "hashtags": ["CSS", "Grid", "Web Design", "Frontend"]
+    },
+    {
+      "id": 5,
+      "cover": "https://imgur.com/a/Wbn0GDe",
+      "title": "Introduction to Machine Learning",
+      "author": "Linda Green",
+      "author_img": "https://example.com/lindagreen.jpg",
+      "posted_date": "2023-10-12",
+      "reading_time": 15,
+      "hashtags": ["Machine Learning", "AI", "Data Science", "Technology"]
+    },
+    {
+      "id": 6,
+      "cover": "https://imgur.com/a/WfXYE7x",
+      "title": "Python for Data Analysis",
+      "author": "Robert King",
+      "author_img": "https://example.com/robertking.jpg",
+      "posted_date": "2023-10-10",
+      "reading_time": 12,
+      "hashtags": ["Python", "Data Analysis", "Data Science", "Coding"]
+    },
+    {
+      "id": 7,
+      "cover": "https://imgur.com/a/Icin7ki",
+      "title": "Building Responsive Web Apps",
+      "author": "Emily Davis",
+      "author_img": "https://example.com/emilydavis.jpg",
+      "posted_date": "2023-10-05",
+      "reading_time": 7,
+      "hashtags": ["Responsive Design", "Web Apps", "CSS", "JavaScript"]
+    },
+    {
+      "id": 8,
+      "cover": "https://imgur.com/a/9rPtZBP",
+      "title": "Creating Dynamic User Interfaces",
+      "author": "William Lee",
+      "author_img": "https://example.com/williamlee.jpg",
+      "posted_date": "2023-10-01",
+      "reading_time": 9,
+      "hashtags": ["User Interface", "Frontend", "React", "JavaScript"]
+    }
+  ]
+  
