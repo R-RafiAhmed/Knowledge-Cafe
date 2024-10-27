@@ -7,17 +7,23 @@ import { useState } from 'react'
 function App() {
   
   const [bookMarks, setBookMarks] = useState([]);
+  const [readingTime, setReadingTime] = useState(0);
+
   const handleBookmarks = blog => {
     const newBookmarks = [...bookMarks, blog];
     setBookMarks(newBookmarks);
+  }
+
+  const handleReadingTime = time => {
+    setReadingTime(readingTime + time);
   }
 
   return (
     <>
       <Header></Header>
       <main className='md:flex container m-auto gap-5'>
-        <Blogs handleBookmarks={handleBookmarks}></Blogs>
-        <Bookmarks bookMarks={bookMarks}></Bookmarks>
+        <Blogs  handleReadingTime={handleReadingTime} handleBookmarks={handleBookmarks}></Blogs>
+        <Bookmarks bookMarks={bookMarks} readingTime={readingTime}></Bookmarks>
       </main>
     </>
   )
